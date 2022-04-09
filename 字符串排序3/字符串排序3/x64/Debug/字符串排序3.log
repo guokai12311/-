@@ -1,0 +1,4 @@
+﻿  字符串排序3.cpp
+C:\Users\31134\Desktop\新建文件夹\字符串排序3\字符串排序3\字符串排序3.cpp(25,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\31134\Desktop\新建文件夹\字符串排序3\字符串排序3\字符串排序3.cpp(25,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  字符串排序3.vcxproj -> C:\Users\31134\Desktop\新建文件夹\字符串排序3\x64\Debug\字符串排序3.exe

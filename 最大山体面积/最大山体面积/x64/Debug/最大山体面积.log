@@ -1,0 +1,4 @@
+﻿  最大山体面积.cpp
+C:\Users\31134\Desktop\新建文件夹\最大山体面积\最大山体面积\最大山体面积.cpp(6,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\31134\Desktop\新建文件夹\最大山体面积\最大山体面积\最大山体面积.cpp(6,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  最大山体面积.vcxproj -> C:\Users\31134\Desktop\新建文件夹\最大山体面积\x64\Debug\最大山体面积.exe

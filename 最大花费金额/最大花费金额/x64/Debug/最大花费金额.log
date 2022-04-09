@@ -1,0 +1,3 @@
+﻿  最大花费金额.cpp
+C:\Users\31134\Desktop\新建文件夹\最大花费金额\最大花费金额\最大花费金额.cpp(24,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  最大花费金额.vcxproj -> C:\Users\31134\Desktop\新建文件夹\最大花费金额\x64\Debug\最大花费金额.exe

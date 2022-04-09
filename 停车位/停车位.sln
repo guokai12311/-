@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "停车位", "停车位\停车位.vcxproj", "{44AC33E3-44BB-4331-BB0F-97173FD613EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AC33E3-44BB-4331-BB0F-97173FD613EC}.Debug|x64.ActiveCfg = Debug|x64
+		{44AC33E3-44BB-4331-BB0F-97173FD613EC}.Debug|x64.Build.0 = Debug|x64
+		{44AC33E3-44BB-4331-BB0F-97173FD613EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{44AC33E3-44BB-4331-BB0F-97173FD613EC}.Debug|x86.Build.0 = Debug|Win32
+		{44AC33E3-44BB-4331-BB0F-97173FD613EC}.Release|x64.ActiveCfg = Release|x64
+		{44AC33E3-44BB-4331-BB0F-97173FD613EC}.Release|x64.Build.0 = Release|x64
+		{44AC33E3-44BB-4331-BB0F-97173FD613EC}.Release|x86.ActiveCfg = Release|Win32
+		{44AC33E3-44BB-4331-BB0F-97173FD613EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38A30F98-AB6B-4A1A-B19A-E5B0A15BEA1F}
+	EndGlobalSection
+EndGlobal

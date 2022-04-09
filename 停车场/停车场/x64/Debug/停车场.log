@@ -1,0 +1,3 @@
+﻿  停车场.cpp
+C:\Users\31134\Desktop\新建文件夹\停车场\停车场\停车场.cpp(35,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  停车场.vcxproj -> C:\Users\31134\Desktop\新建文件夹\停车场\x64\Debug\停车场.exe

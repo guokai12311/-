@@ -1,0 +1,3 @@
+﻿  数独还原.cpp
+C:\Users\31134\Desktop\新建文件夹\数独还原\数独还原\数独还原.cpp(35): warning C4715: “is_valid”: 不是所有的控件路径都返回值
+  数独还原.vcxproj -> C:\Users\31134\Desktop\新建文件夹\数独还原\x64\Debug\数独还原.exe

@@ -1,0 +1,4 @@
+﻿  tlv解析2.cpp
+C:\Users\31134\Desktop\新建文件夹\tlv解析2\tlv解析2\tlv解析2.cpp(37,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\31134\Desktop\新建文件夹\tlv解析2\tlv解析2\tlv解析2.cpp(98,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  tlv解析2.vcxproj -> C:\Users\31134\Desktop\新建文件夹\tlv解析2\x64\Debug\tlv解析2.exe

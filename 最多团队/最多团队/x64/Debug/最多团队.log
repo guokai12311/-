@@ -1,0 +1,3 @@
+﻿  最多团队.cpp
+C:\Users\31134\Desktop\新建文件夹\最多团队\最多团队\最多团队.cpp(21,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  最多团队.vcxproj -> C:\Users\31134\Desktop\新建文件夹\最多团队\x64\Debug\最多团队.exe

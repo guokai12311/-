@@ -1,0 +1,4 @@
+﻿  路径长度.cpp
+C:\Users\31134\Desktop\新建文件夹\路径长度\路径长度\路径长度.cpp(15,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\31134\Desktop\新建文件夹\路径长度\路径长度\路径长度.cpp(18,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  路径长度.vcxproj -> C:\Users\31134\Desktop\新建文件夹\路径长度\x64\Debug\路径长度.exe
